@@ -130,7 +130,11 @@ main{
     }
   
     .month a{
+        text-align: center;
         text-wrap: nowrap;
+        justify-content: center;
+        display: flex;
+        
     }
 
 
