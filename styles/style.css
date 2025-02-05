@@ -83,10 +83,10 @@ body{
     box-shadow: 12px 10px 12px 0px rgba(0,0,0,0.1);
     border-radius: .5rem;
     transition: all 0.3s ease-in-out; /* Adiciona transição suave */
+    border: 1px solid #C0DF33;
 }
 
 .month a:hover{
-    border: 1px solid #C0DF33;
     background-color: #2AB3B1;
     cursor: pointer;
     color: #C0DF33;
